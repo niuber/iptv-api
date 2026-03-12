@@ -2,10 +2,24 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
-
-
+#migu
+https://develop202.github.io/migu_video/interface.txt
+#游魂
+https://www.iyouhun.com/tv/zb
+#IPv4 赛选源
+http://kakaxi.indevs.in/ipv4.txt
+#卡卡西线路
+https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
+#猫TV线路
+http://rihou.cc:567/gggg.nzk
+#BMCH
+https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+#Yoursmile
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
+#直播电视IPV4
+https://live.zbds.top/tv/iptv4.txt
+#netlify
+https://shimmering-taffy-8c2940.netlify.app/
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
