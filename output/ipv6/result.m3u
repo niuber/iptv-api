@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/niuber/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.176:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-14 16:49:00
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.176:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-14 21:11:38
 http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.176:5180/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://z.b.bkpcp.top/m.php?id=cctv1
@@ -123,6 +123,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://t.freetv.fun/live/cctv16-5.php
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://10.1.0.176:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://10.1.0.176:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="http://10.1.0.176:5180/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="http://10.1.0.176:5180/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
