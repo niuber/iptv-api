@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 11:21:45,http://z.b.bkpcp.top/m.php?id=cctv1
+2026-03-15 13:42:42,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -15,6 +15,7 @@ CCTV-2,http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ott
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774137612&major_anchor_level=common&sign=083dee77dac06a94f512dca7db92affa&t_id=037-20260315080012DFA4D8A19D256E8616F4-kGRXIb
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
