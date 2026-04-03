@@ -11,6 +11,7 @@
 中超赛评,#genre#
 04-03⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 19:35成都蓉城🆚青岛西岸,http://rihou.cc:555/tv/v
+国🔊球侠评述,http://rihou.cc:555/tv/03中超球侠述
 国🔊03咪评述,http://rihou.cc:555/tv/03中超咪评述
 04-04⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 15:30辽宁铁人🆚北京国安,http://rihou.cc:555/tv/v
@@ -58,6 +59,7 @@ CBA赛评,#genre#
 04-03⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广州朗肽🆚北京北汽,http://rihou.cc:555/tv/v
 粤🔊丁伟杰述,http://rihou.cc:555/tv/03CBA丁伟杰
+粤🔊粤kk旁述,http://rihou.cc:555/tv/03CBA粤kk述
 粤🔊广东体育,http://rihou.cc:555/tv/[At|]广东体育
 国🔊03抖评述,http://rihou.cc:555/tv/03CBA抖评述
 19:35福建晋江🆚青岛崂山,http://rihou.cc:555/tv/v
