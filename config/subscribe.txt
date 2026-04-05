@@ -12,9 +12,10 @@ https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/ip
 https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://live.zbds.top/tv/iptv4.txt
 https://shimmering-taffy-8c2940.netlify.app/
-http://xhztv.top/new.txt
 https://3043.kstore.space/bhvip/bhzb.txt
 http://rihou.cc:567/gggg.nzk
+
+# http://xhztv.top/new.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
