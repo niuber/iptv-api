@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-07 04:50:15,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-07 11:20:34,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -39,6 +39,7 @@ CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?ar
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695587329821377196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812129&major_anchor_level=common&sign=e35cee45305242ce14c155c9908cac68&t_id=037-2026040317084888CD726900AC3C8990DB-Wef3rj
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695587329821377196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776055177&major_anchor_level=common&sign=ac74dc524cbdead720cf92a07a9500ba&t_id=037-2026040612393649C2EF8C86D956C27616-IjtU2k
 CCTV-7,https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
@@ -87,6 +88,7 @@ CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV-17,http://pull-hls-f26.douyincdn.com/media/stream-119150853951062700.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69dd9199&major_anchor_level=common&sign=5cc99af04c1583c04f9924d4712ed371&t_id=037-202604070900091F94012DF4EA7E4C51CD-RT6BD6
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
