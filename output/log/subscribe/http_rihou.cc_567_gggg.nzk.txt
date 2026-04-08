@@ -82,6 +82,7 @@ CBA赛评,#genre#
 国🔊09抖述评,http://rihou.cc:555/tv/09CBA抖述评
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+鞋佬欧冠回放,http://rihou.cc:555/tv/鞋佬回放赛08
 联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛08
 NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛08
 羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛08
