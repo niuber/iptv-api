@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-08 04:59:31,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-08 11:22:37,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -34,6 +34,7 @@ CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-5+,https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+CCTV-5+,https://t.freetv.fun/live/cctv5-plus.php
 CCTV-6,https://live.metshop.top/bestv.php?id=cctv6hd8m/8000000
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -149,6 +150,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-1.php
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
