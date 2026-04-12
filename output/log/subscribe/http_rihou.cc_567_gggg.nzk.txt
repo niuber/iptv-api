@@ -8,18 +8,6 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
-桂超赛评,#genre#
-04-12⬇️广西县级足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-14:30桂林市七星区队🆚来宾市武宣县队,http://rihou.cc:555/tv/v
-国🔊12咪评述,http://rihou.cc:555/tv/12桂超咪评述
-14:30来宾市兴宾区队🆚桂林市灵川县队,http://rihou.cc:555/tv/v
-国🔊12咪述评,http://rihou.cc:555/tv/12桂超咪述评
-浙超赛评,#genre#
-04-12⬇️浙江省城市足球联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-15:00温州队🆚绍兴队,http://rihou.cc:555/tv/v
-国🔊12咪评述,http://rihou.cc:555/tv/12浙超咪评述
-15:00宁波队🆚湖州队,http://rihou.cc:555/tv/v
-国🔊12咪述评,http://rihou.cc:555/tv/12浙超咪述评
 中超赛评,#genre#
 04-12⬇️中超联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 19:00天津门虎🆚青岛海牛,http://rihou.cc:555/tv/v
@@ -40,6 +28,7 @@ CBA赛评,#genre#
 04-12⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广东阳光🆚浙江浙商,http://rihou.cc:555/tv/v
 粤🔊丁伟杰述,http://rihou.cc:555/tv/12CBA丁伟杰
+粤🔊粤kk旁述,http://rihou.cc:555/tv/12CBA粤kk述
 粤🔊广东体育,http://rihou.cc:555/tv/[At|]广东体育
 国🔊12抖评述,http://rihou.cc:555/tv/12CBA抖评述
 19:35青岛崂山🆚宁波町渥,http://rihou.cc:555/tv/v
