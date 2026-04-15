@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 11:28:46,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-15 14:09:32,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -135,6 +135,7 @@ CCTV-17,http://pull-hls-f26.douyincdn.com/media/stream-119150853951062700.m3u8?a
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695628960938590892.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776388385&major_anchor_level=common&sign=9148eda0c1121380f7266ebe2881a929&t_id=037-202604100913042E921560E43595D1D2E1-ycYyLY
 CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695634920884667052.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776475106&major_anchor_level=common&sign=297ebc9721578fcf87a1540dee5ecebf&t_id=037-20260411091825DAF9B44162D5A50BE14B-2t3jM5
+CCTV-17,http://pull-hls-f26.douyincdn.com/media/stream-695660736321159852.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69e83e89&major_anchor_level=common&sign=caf49421e642955f872bc4f12b6edd94&t_id=037-20260415112041088F5352BA6B103F8A69-xSIgpA
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
