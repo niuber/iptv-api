@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-16 05:02:37,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-16 11:36:19,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -58,6 +58,7 @@ CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695587329821377196.m3u8?ar
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695587329821377196.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776055177&major_anchor_level=common&sign=ac74dc524cbdead720cf92a07a9500ba&t_id=037-2026040612393649C2EF8C86D956C27616-IjtU2k
 CCTV-6,https://cdn16.163189.xyz/163189/4ceb289726bacf29
 CCTV-6,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM
 CCTV-7,https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
@@ -109,6 +110,8 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?a
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776484602&major_anchor_level=common&sign=a5a34bdff07cfb060a010c0b632ce79b&t_id=037-202604111156410DCF4EC4BFF47B6D364C-f47Nti
 CCTV-13,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906347&major_anchor_level=common&sign=81655df7686481f4cec91377da5b5b98&t_id=037-20260416090546B656952D837424ED6011-Fd7pkI
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906376&major_anchor_level=common&sign=3d747723a48cdbc8d62d59e475b46ba9&t_id=037-202604160906153524B036CC507AF52AC7-mRao9U
 CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -136,6 +139,7 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695628960938590892.m3u8?a
 CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695634920884667052.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776475106&major_anchor_level=common&sign=297ebc9721578fcf87a1540dee5ecebf&t_id=037-20260411091825DAF9B44162D5A50BE14B-2t3jM5
 CCTV-17,http://pull-hls-f26.douyincdn.com/media/stream-695660736321159852.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69e83e89&major_anchor_level=common&sign=caf49421e642955f872bc4f12b6edd94&t_id=037-20260415112041088F5352BA6B103F8A69-xSIgpA
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695663867818934956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906184&major_anchor_level=common&sign=35f4891c9f7e2d3f70751aeca377b278&t_id=037-202604160903034600B8EB7E1921FBEE8B-0uloPn
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
