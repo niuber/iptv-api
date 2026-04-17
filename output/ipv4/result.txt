@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-04-18 01:02:50,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+2026-04-18 04:57:43,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 
 📺央视频道,#genre#
 CCTV-1,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 CCTV-2,http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
+CCTV-3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 CCTV-4,http://43.156.8.127:5050/ysp?id=2029797101&pid=600001814&q=fhd
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
@@ -29,17 +30,18 @@ CCTV-14,http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 CCTV-17,http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
 
 📡卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,https://iptv.catvod.com/catvod.php?id=gdws
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://43.156.8.127:5050/ysp?id=2024060903&pid=600002485&q=fhd
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://iptv.catvod.com/catvod.php?id=zjws
 浙江卫视,http://43.156.8.127:5050/ysp?id=2024054703&pid=600002520&q=fhd
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -47,9 +49,11 @@ CCTV-17,http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
 湖南卫视,http://43.156.8.127:5050/ysp?id=2024054803&pid=600002475&q=fhd
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,https://iptv.catvod.com/catvod.php?id=bjws
 北京卫视,http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 湖北卫视,https://iptv.catvod.com/catvod.php?id=hubws
@@ -109,14 +113,17 @@ CCTV-17,http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
 四川卫视,https://iptv.catvod.com/catvod.php?id=scws
 四川卫视,http://43.156.8.127:5050/ysp?id=2024061403&pid=600002516&q=fhd
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 深圳卫视,https://iptv.catvod.com/catvod.php?id=szws
 深圳卫视,http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://43.156.8.127:5050/ysp?id=2019927003&pid=600152137&q=fhd
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws
 西藏卫视,http://43.156.8.127:5050/ysp?id=2025558003&pid=600190403&q=fhd
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
