@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-19 11:38:57,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-19 14:05:58,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -115,6 +115,8 @@ CCTV-13,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906347&major_anchor_level=common&sign=81655df7686481f4cec91377da5b5b98&t_id=037-20260416090546B656952D837424ED6011-Fd7pkI
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906376&major_anchor_level=common&sign=3d747723a48cdbc8d62d59e475b46ba9&t_id=037-202604160906153524B036CC507AF52AC7-mRao9U
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695683994431259308.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777176151&major_anchor_level=common&sign=1beca98d0af6c301ab2f39824a583d47&t_id=037-20260419120230BE2BFC68C458B9008A7A-L9bZ4N
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695683996513731244.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777176199&major_anchor_level=common&sign=02f7c945deaf223ad7d8040e251feea1&t_id=037-20260419120318A6E53BDB1FE36D045D64-RU8bpk
 CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
