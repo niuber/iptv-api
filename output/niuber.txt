@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-20 04:49:54,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+2026-04-20 11:40:33,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 
 📺央视频道,#genre#
 CCTV-1,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
@@ -23,6 +23,7 @@ CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-2,https://cdn13.178.indevs.in/163189/728a0426e886a6b6
 CCTV-2,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv2
 CCTV-3,http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
+CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 CCTV-3,https://live.metshop.top/bestv.php?id=cctv38m/8000000
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -32,6 +33,7 @@ CCTV-3,https://cdn16.163189.xyz/163189/96a39bfe7103e9c5
 CCTV-3,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv3
 CCTV-4,http://43.156.8.127:5050/ysp?id=2029797101&pid=600001814&q=fhd
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
 CCTV-4,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
@@ -53,8 +55,8 @@ CCTV-5,https://cdn16.163189.xyz/163189/04fd1e256f077cb4
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
@@ -90,8 +92,8 @@ CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-8,https://cdn16.163189.xyz/163189/88364a089ee099b9
 CCTV-8,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv8hd
 CCTV-9,http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8
@@ -109,10 +111,10 @@ CCTV-11,https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,https://cdn16.163189.xyz/163189/b29354983d6346c5
 CCTV-11,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv11
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
@@ -150,6 +152,7 @@ CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-14,https://cdn16.163189.xyz/163189/7b67a22535e8be8e
 CCTV-14,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv14
 CCTV-14,https://t.freetv.fun/live/cctv14shao-er-1.php
+CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8
 CCTV-15,http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV-15,https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
@@ -159,9 +162,10 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://cdn16.163189.xyz/163189/739033aae9798077
 CCTV-15,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv15
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
-CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
@@ -187,9 +191,9 @@ CETV-4,https://live.metshop.top/bestv.php?id=zgjy4hd8m/8000000
 CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 📡卫视频道,#genre#
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,https://iptv.catvod.com/catvod.php?id=gdws
 广东卫视,http://43.156.8.127:5050/ysp?id=2024060903&pid=600002485&q=fhd
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,https://live.metshop.top/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
@@ -198,12 +202,10 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265034.m3u8?cdn=ystenlive
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-5.php
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,https://iptv.catvod.com/catvod.php?id=zjws
 浙江卫视,http://43.156.8.127:5050/ysp?id=2024054703&pid=600002520&q=fhd
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
@@ -214,9 +216,9 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
 湖南卫视,http://43.156.8.127:5050/ysp?id=2024054803&pid=600002475&q=fhd
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,https://live.metshop.top/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
@@ -226,6 +228,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 北京卫视,https://iptv.catvod.com/catvod.php?id=bjws
 北京卫视,http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
@@ -303,6 +306,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
 海南卫视,http://43.156.8.127:5050/ysp?id=2024055603&pid=600002506&q=fhd
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 海南卫视,https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -343,7 +347,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,http://43.156.8.127:5050/ysp?id=2025561203&pid=600190401&q=fhd
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1.php
@@ -376,6 +379,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 四川卫视,https://iptv.catvod.com/catvod.php?id=scws
 四川卫视,http://43.156.8.127:5050/ysp?id=2024061403&pid=600002516&q=fhd
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 四川卫视,https://live.metshop.top/bestv.php?id=scwshd/8000000
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
