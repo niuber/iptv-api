@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 22:02:43,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-22 01:13:45,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -100,9 +100,9 @@ CCTV-11,https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,https://cdn16.163189.xyz/163189/b29354983d6346c5
 CCTV-11,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv11
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-12,https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
@@ -148,9 +148,9 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://cdn16.163189.xyz/163189/739033aae9798077
 CCTV-15,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv15
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
@@ -328,11 +328,10 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.php
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,https://iptv.catvod.com/catvod.php?id=scws
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 四川卫视,https://live.metshop.top/bestv.php?id=scwshd/8000000
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
@@ -341,11 +340,11 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
 深圳卫视,https://iptv.catvod.com/catvod.php?id=szws
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,https://live.metshop.top/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,https://live.metshop.top/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
