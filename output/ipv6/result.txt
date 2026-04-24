@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-24 05:01:52,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-24 11:36:19,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -148,6 +148,7 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695634920884667052.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776475106&major_anchor_level=common&sign=297ebc9721578fcf87a1540dee5ecebf&t_id=037-20260411091825DAF9B44162D5A50BE14B-2t3jM5
 CCTV-17,http://pull-hls-f26.douyincdn.com/media/stream-695660736321159852.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69e83e89&major_anchor_level=common&sign=caf49421e642955f872bc4f12b6edd94&t_id=037-20260415112041088F5352BA6B103F8A69-xSIgpA
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695663867818934956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906184&major_anchor_level=common&sign=35f4891c9f7e2d3f70751aeca377b278&t_id=037-202604160903034600B8EB7E1921FBEE8B-0uloPn
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-119249950317216428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777597787&major_anchor_level=common&neq=1&sign=d56e4b73a6e22f29af1bc99150197a61&t_id=037-202604240909474D5581B777A086C103FC-RTCVDP
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
@@ -187,6 +188,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
 安徽卫视,https://live.metshop.top/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
@@ -273,6 +275,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php
 深圳卫视,https://live.metshop.top/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
