@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-24 17:52:55,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-24 21:58:46,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -118,6 +118,7 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?a
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906376&major_anchor_level=common&sign=3d747723a48cdbc8d62d59e475b46ba9&t_id=037-202604160906153524B036CC507AF52AC7-mRao9U
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695683994431259308.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777176151&major_anchor_level=common&sign=1beca98d0af6c301ab2f39824a583d47&t_id=037-20260419120230BE2BFC68C458B9008A7A-L9bZ4N
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695683996513731244.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777176199&major_anchor_level=common&sign=02f7c945deaf223ad7d8040e251feea1&t_id=037-20260419120318A6E53BDB1FE36D045D64-RU8bpk
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
 CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
