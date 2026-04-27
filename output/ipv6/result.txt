@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 18:26:18,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-27 22:15:44,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -63,6 +63,7 @@ CCTV-6,https://cdn16.163189.xyz/163189/4ceb289726bacf29
 CCTV-6,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776982413&major_anchor_level=common&sign=f9b38953294dc9382f27b29d0cbc0202&t_id=037-20260417061332958A24DAFCB89C5600AB-h4zSDn
+CCTV-6,http://pull-hs-f5.flive.douyincdn.com/media/stream-695714472666071724/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777629510&major_anchor_level=common&neq=1&sign=840a9f0ba98bbf3e2a3a8b60037a3baa&t_id=037-2026042417583002BDB38493B32EF050BD-oVJQ3M&volcSecret=840a9f0ba98bbf3e2a3a8b60037a3baa&volcTime=1777629510
 CCTV-7,https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
