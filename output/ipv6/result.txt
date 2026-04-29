@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-29 05:15:15,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-29 11:51:06,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -88,6 +88,7 @@ CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 CCTV-10,https://cdn16.163189.xyz/163189/02b8dd6e6d732d7d
 CCTV-10,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv10hd
+CCTV-10,https://t.freetv.fun/live/cctv-10-1.php
 CCTV-11,https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,https://cdn16.163189.xyz/163189/b29354983d6346c5
