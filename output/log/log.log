@@ -173,3 +173,63 @@
 2026-09-02T03:17:45+00:00 INFO    [run=54a65a04e44541f5b718513249752ef8 phase=statistics event=statistics.finished] 频道统计完成：测试 1328，有效 28
 2026-09-02T03:17:45+00:00 INFO    [run=54a65a04e44541f5b718513249752ef8 phase=complete event=run.summary] 更新摘要
 2026-09-02T03:17:45+00:00 INFO    [run=54a65a04e44541f5b718513249752ef8 phase=complete event=run.finished] 更新完成！总耗时：12:14
+2026-09-02T12:35:38+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-09-02T12:35:38+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-09-02T12:35:38+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 2，台标 21
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=sources.subscribe.summary] 订阅源数量：10，订阅白名单数量：0，停用地址数量：0，有效总数量：10
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.started] 正在进行获取订阅源  0/10
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-09-02T12:35:38+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-09-02T12:35:39+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=epg.source_parsed] EPG 源解析完成：http://e.erw.cc/e.xml.gz，保留节目 2225 条
+2026-09-02T12:35:39+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-09-02T12:35:39+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-09-02T12:35:39+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 56 个频道
+2026-09-02T12:35:40+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  1/10 (10%)  剩余 9
+2026-09-02T12:35:40+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  2/10 (20%)  剩余 8
+2026-09-02T12:35:40+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  3/10 (30%)  剩余 7
+2026-09-02T12:35:40+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  4/10 (40%)  剩余 6
+2026-09-02T12:35:40+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  5/10 (50%)  剩余 5
+2026-09-02T12:35:41+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  6/10 (60%)  剩余 4
+2026-09-02T12:35:41+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  7/10 (70%)  剩余 3
+2026-09-02T12:35:41+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  8/10 (80%)  剩余 2
+2026-09-02T12:35:41+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  9/10 (90%)  剩余 1
+2026-09-02T12:35:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.updated] 正在进行获取订阅源  10/10 (100%)  剩余 0
+2026-09-02T12:35:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：10，⛔ 停用地址数量：0
+2026-09-02T12:35:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=fetch event=progress.finished] 正在进行获取订阅源  10/10  未匹配 5727
+2026-09-02T12:36:23+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=aggregate event=channels.aggregated] 频道数据聚合完成：56 个频道，1478 个接口（IPv4 1329 / IPv6 149）
+2026-09-02T12:36:23+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=speed_test.planned] 总接口数量: 1473, 需要进行测速的接口数量: 1325
+2026-09-02T12:36:23+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.started] 测速  0/1325
+2026-09-02T12:36:24+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1/1325 (0%)  有效 1  失败 0  CCTV-1
+2026-09-02T12:36:55+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  45/1325 (3%)  有效 2  失败 43  CCTV-1
+2026-09-02T12:37:25+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  88/1325 (6%)  有效 3  失败 85  CCTV-3
+2026-09-02T12:37:55+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  140/1325 (10%)  有效 3  失败 137  CCTV-5
+2026-09-02T12:38:28+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  181/1325 (13%)  有效 3  失败 178  CCTV-5+
+2026-09-02T12:38:59+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  234/1325 (17%)  有效 3  失败 231  CCTV-7
+2026-09-02T12:39:29+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  282/1325 (21%)  有效 4  失败 278  CCTV-8
+2026-09-02T12:39:59+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  325/1325 (24%)  有效 4  失败 321  CCTV-10
+2026-09-02T12:40:29+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  377/1325 (28%)  有效 5  失败 372  CCTV-12
+2026-09-02T12:41:01+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  429/1325 (32%)  有效 5  失败 424  CCTV-14
+2026-09-02T12:41:31+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  477/1325 (36%)  有效 5  失败 472  CCTV-17
+2026-09-02T12:42:02+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  549/1325 (41%)  有效 8  失败 541  广东卫视
+2026-09-02T12:42:32+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  597/1325 (45%)  有效 11  失败 586  湖南卫视
+2026-09-02T12:43:04+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  652/1325 (49%)  有效 13  失败 639  湖北卫视
+2026-09-02T12:43:34+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  703/1325 (53%)  有效 13  失败 690  重庆卫视
+2026-09-02T12:44:05+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  796/1325 (60%)  有效 13  失败 783  重庆卫视
+2026-09-02T12:44:35+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  895/1325 (67%)  有效 14  失败 881  东方卫视
+2026-09-02T12:45:05+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  943/1325 (71%)  有效 14  失败 929  甘肃卫视
+2026-09-02T12:45:35+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1000/1325 (75%)  有效 15  失败 985  海南卫视
+2026-09-02T12:46:06+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1056/1325 (79%)  有效 15  失败 1041  吉林卫视
+2026-09-02T12:46:37+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1106/1325 (83%)  有效 16  失败 1090  江西卫视
+2026-09-02T12:47:07+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1164/1325 (87%)  有效 22  失败 1142  宁夏卫视
+2026-09-02T12:47:37+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1218/1325 (91%)  有效 25  失败 1193  陕西卫视
+2026-09-02T12:48:07+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1276/1325 (96%)  有效 28  失败 1248  三沙卫视
+2026-09-02T12:48:39+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1320/1325 (99%)  有效 30  失败 1290  云南卫视
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.updated] 测速  1325/1325 (100%)  有效 30  失败 1295  云南卫视
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=speed_test event=progress.finished] 测速  1325/1325  有效 30  失败 1295
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=statistics event=statistics.finished] 频道统计完成：测试 1325，有效 30
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=complete event=run.summary] 更新摘要
+2026-09-02T12:48:44+00:00 INFO    [run=f5146a54a3c644bda4f286b737ab4361 phase=complete event=run.finished] 更新完成！总耗时：13:05
