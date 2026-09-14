@@ -1,7 +1,38 @@
-更新时间,#genre#
-(地)20260812 09:46:48,https://gitlab.com/youhun/TVAPP/-/raw/main/abput1080.mp4
-(址)关于本源(公众号：游魂网),https://gitlab.com/youhun/TVAPP/-/raw/main/abput1080.mp4
-(已)(百)每日一首,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000crdl34vog65v7e9of17g&ratio=720p&line=0
-(变)(宝)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-(更)(箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(!!)(箱)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>403 Forbidden</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:16px}
+.c{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:36px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.4)}
+.i{width:56px;height:56px;background:rgba(239,68,68,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
+.i svg{width:28px;height:28px;stroke:#ef4444;fill:none;stroke-width:2}
+.t{font-size:13px;font-weight:700;letter-spacing:1.5px;color:#ef4444;margin-bottom:6px}
+h1{font-size:20px;color:#f8fafc;margin-bottom:10px}
+p{font-size:14px;line-height:1.5;color:#94a3b8;margin-bottom:24px}
+.btns{display:flex;gap:10px;justify-content:center}
+.btn{padding:8px 16px;border-radius:6px;font-size:13px;font-weight:500;text-decoration:none;cursor:pointer;border:none;display:inline-block}
+.bp{background:#3b82f6;color:#fff}
+.bp:hover{background:#2563eb}
+.bs{background:#334155;color:#cbd5e1}
+.bs:hover{background:#475569}
+</style>
+</head>
+<body>
+<div class="c">
+<div class="i">
+<svg viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 002.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
+</div>
+<div class="t">403 FORBIDDEN</div>
+<h1>禁止访问</h1>
+<p>抱歉，您没有权限访问该资源。请检查您的权限或联系管理员。</p>
+<div class="btns">
+<button class="btn bs" onclick="history.back()">返回</button>
+<a href="/" class="btn bp">首页</a>
+</div>
+</div>
+</body>
+</html>
