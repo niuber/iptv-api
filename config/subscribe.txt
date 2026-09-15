@@ -9,10 +9,13 @@ https://www.iyouhun.com/tv/zb
 http://rihou.cc:567/gggg.nzk
 https://3043.kstore.space/bhvip/bhzb.txt
 https://shimmering-taffy-8c2940.netlify.app/
+https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://cdn.gh-proxy.org/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+https://m3u.ibert.me/list/fmml_ipv6.list
+https://m3u.ibert.me/list/cymz6_lives.list
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
