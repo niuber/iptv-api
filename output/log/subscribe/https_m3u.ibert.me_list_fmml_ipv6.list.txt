@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=d6941b39222751f706861a10e2440b65f3b4e53b">
+    <link rel="stylesheet" href="/assets/css/style.css?v=0505abc39ac6cbcac1fb4522822adfb8947dcb2c">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -562,7 +562,7 @@
   </tbody>
 </table>
 
-<p>Updated at <strong>Mon Oct 12 2026 08:34:49 GMT+0000 (Coordinated Universal Time)</strong></p>
+<p>Updated at <strong>Tue Oct 13 2026 01:47:45 GMT+0000 (Coordinated Universal Time)</strong></p>
 
 
       <footer class="site-footer">
