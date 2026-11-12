@@ -9,9 +9,9 @@ https://www.iyouhun.com/tv/zb
 https://3043.kstore.space/bhvip/bhzb.txt
 https://shimmering-taffy-8c2940.netlify.app/
 https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-https://cdn.gh-proxy.org/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+#https://cdn.gh-proxy.org/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
 #https://cdn.gh-proxy.org/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
+#https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 #https://m3u.ibert.me/list/fmml_ipv6.list
 https://m3u.ibert.me/list/cymz6_lives.list
 
