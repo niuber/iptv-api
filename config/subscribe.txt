@@ -4,8 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 http://kakaxi.indevs.in/ipv4.txt
-https://live.zbds.top/tv/iptv4.txt
 https://shimmering-taffy-8c2940.netlify.app/
+#https://live.zbds.top/tv/iptv4.txt
 #https://www.iyouhun.com/tv/zb
 #https://3043.kstore.space/bhvip/bhzb.txt
 #https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
