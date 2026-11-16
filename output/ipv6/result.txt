@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-16 14:28:29,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=719597431ea40085fb1e2e5bd0def5a5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261107075029&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.188.159&SecurityKey=20261107075029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=65daf7648e604abdb22860ab01be0559&ddCalcu=9655v5da0ayefab71604b8ae0660842a2bbd&sv=10004&ct=android
+2026-11-17 02:01:19,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=719597431ea40085fb1e2e5bd0def5a5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261107075029&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.188.159&SecurityKey=20261107075029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=65daf7648e604abdb22860ab01be0559&ddCalcu=9655v5da0ayefab71604b8ae0660842a2bbd&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=719597431ea40085fb1e2e5bd0def5a5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261107075029&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.188.159&SecurityKey=20261107075029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=65daf7648e604abdb22860ab01be0559&ddCalcu=9655v5da0ayefab71604b8ae0660842a2bbd&sv=10004&ct=android
@@ -200,10 +200,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 宁夏卫视,https://stream1.freetv.fun/7c97987fabe18f3ac68fed41bc53ceffb58399ae248785798ba08e384728f027.m3u8
 宁夏卫视,https://stream1.freetv.fun/a5ab17e7871146d4e69d46060f01078914a3c8f468ea3264a143c0e08b515b50.m3u8
 青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=838932cce6bb70708ca91638f3feeaee&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20261107075043&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=39.103.182.111&SecurityKey=20261107075043&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dc756c0b470514a5943604b26304cfc7&ddCalcu=7dccvf7ac5z46a0c306b24b7400561344a95&sv=10004&ct=android
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,https://iptv.catvod.com/catvod.php?id=qhws
 青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
 青海卫视,https://stream1.freetv.fun/d80dbd44304e92ebbad7fd55f71bf9a308c53fcc29593eae8aefbed892ab2a6b.m3u8
-青海卫视,https://stream1.freetv.fun/b6326e0b6756fb48fe4f9d486290138c0f6ff88c1dbeec97255267e2fd451f53.m3u8
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
