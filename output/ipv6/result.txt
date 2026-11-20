@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-20 01:10:57,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+2026-11-20 13:56:23,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
@@ -124,6 +124,7 @@ CCTV-17,http://0000505.xyz:8888/rtp/239.76.252.238:9000
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖北卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472496
 湖北卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.164:6000
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 黑龙江卫视,https://iptv.catvod.com/catvod.php?id=hljws
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
@@ -193,11 +194,11 @@ CCTV-17,http://0000505.xyz:8888/rtp/239.76.252.238:9000
 宁夏卫视,https://iptv.catvod.com/catvod.php?id=nxws
 宁夏卫视,https://stream1.freetv.fun/7c97987fabe18f3ac68fed41bc53ceffb58399ae248785798ba08e384728f027.m3u8
 宁夏卫视,https://stream1.freetv.fun/a5ab17e7871146d4e69d46060f01078914a3c8f468ea3264a143c0e08b515b50.m3u8
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,https://iptv.catvod.com/catvod.php?id=qhws
 青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
 青海卫视,https://stream1.freetv.fun/d80dbd44304e92ebbad7fd55f71bf9a308c53fcc29593eae8aefbed892ab2a6b.m3u8
 青海卫视,https://stream1.freetv.fun/b6326e0b6756fb48fe4f9d486290138c0f6ff88c1dbeec97255267e2fd451f53.m3u8
+青海卫视,https://stream1.freetv.fun/08634ae79ac958d456b3a36629c9f5c7a90eb67044c3c672a6b5442c413821aa.m3u8
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
