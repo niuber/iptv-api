@@ -6856,3 +6856,44 @@
 2026-11-21T21:30:45+00:00 INFO    [run=eef771c2e0cc44ae8729b0a5ece2f83c phase=statistics event=statistics.finished] 频道统计完成：测试 202，有效 101
 2026-11-21T21:30:45+00:00 INFO    [run=eef771c2e0cc44ae8729b0a5ece2f83c phase=complete event=run.summary] 更新摘要
 2026-11-21T21:30:45+00:00 INFO    [run=eef771c2e0cc44ae8729b0a5ece2f83c phase=complete event=run.finished] 更新完成！总耗时：02:24
+2026-11-22T05:18:43+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-11-22T05:18:43+00:00 INFO    [event=version.available] 发现新版本：当前 3.0.0，最新 3.1.0，请访问 https://github.com/Guovin/iptv-api/releases/tag/3.1.0
+2026-11-22T05:18:43+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-11-22T05:18:43+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 2，台标 21
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=sources.subscribe.summary] 订阅源数量：5，订阅白名单数量：0，停用地址数量：6，有效总数量：5
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.started] 正在进行获取订阅源  0/5
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-11-22T05:18:44+00:00 WARNING [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=request.retrying] 🔄 请求http://e.erw.cc/e.xml.gz失败，正在进行第1次重试...
+2026-11-22T05:18:44+00:00 ERROR   [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=source.parse_failed] http://e.erw.cc/e.xml.gz 出错：❌ 请求http://e.erw.cc/e.xml.gz失败，已达到最大重试次数
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-11-22T05:18:44+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 0 个频道
+2026-11-22T05:18:45+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取订阅源  1/5 (20%)  剩余 4
+2026-11-22T05:18:46+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取订阅源  2/5 (40%)  剩余 3
+2026-11-22T05:18:46+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取订阅源  3/5 (60%)  剩余 2
+2026-11-22T05:18:47+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取订阅源  4/5 (80%)  剩余 1
+2026-11-22T05:18:52+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.updated] 正在进行获取订阅源  5/5 (100%)  剩余 0
+2026-11-22T05:18:52+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：5，⛔ 停用地址数量：0
+2026-11-22T05:18:52+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=fetch event=progress.finished] 正在进行获取订阅源  5/5  未匹配 521
+2026-11-22T05:19:01+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=aggregate event=channels.aggregated] 频道数据聚合完成：56 个频道，377 个接口（IPv4 373 / IPv6 4）
+2026-11-22T05:19:01+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=speed_test.planned] 总接口数量: 377, 需要进行测速的接口数量: 26
+2026-11-22T05:19:01+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.started] 测速  0/26
+2026-11-22T05:19:02+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  1/26 (3%)  有效 0  失败 1  CCTV-1
+2026-11-22T05:19:03+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  4/26 (15%)  有效 0  失败 4  CCTV-1
+2026-11-22T05:19:05+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  7/26 (26%)  有效 3  失败 4  广东卫视
+2026-11-22T05:19:06+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  10/26 (38%)  有效 6  失败 4  CCTV-12
+2026-11-22T05:19:09+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  13/26 (50%)  有效 9  失败 4  东方卫视
+2026-11-22T05:19:12+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  16/26 (61%)  有效 9  失败 7  CCTV-1
+2026-11-22T05:19:14+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  19/26 (73%)  有效 11  失败 8  浙江卫视
+2026-11-22T05:19:18+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  22/26 (84%)  有效 13  失败 9  新疆卫视
+2026-11-22T05:19:21+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  25/26 (96%)  有效 13  失败 12  江西卫视
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.updated] 测速  26/26 (100%)  有效 13  失败 13  青海卫视
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=speed_test event=progress.finished] 测速  26/26  有效 13  失败 13
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=statistics event=statistics.finished] 频道统计完成：测试 26，有效 13
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=complete event=run.summary] 更新摘要
+2026-11-22T05:19:22+00:00 INFO    [run=f4c175a94c6848f18f27d9d4c85288a4 phase=complete event=run.finished] 更新完成！总耗时：00:37
